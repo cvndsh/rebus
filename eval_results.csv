@@ -1,0 +1,334 @@
+Filename,Theme,Difficulty,Solution,Also accept,LLaVa-1.5-7B,LLaVa-1.5-13B,GPT-4V,Gemini Pro,CogVLM,BLIP2-FLAN-T5-XXL,InstructBLIP,QWEN
+0001.jpg,Towns in Massachusetts,Medium,NORWELL,,Marblehead,Quincy,Ipswich,Wellesley,Boston,shrewsbury ma,Science & Technology,[[NONE]]
+0002.jpg,Towns in Massachusetts,Easy,COLRAIN,,Plymouth,Provincetown,[[NONE]],Raynham,Towns in Massachusetts,rochester,"Educating, Teaching & Learning",[[NONE]]
+0003.jpg,Towns in Massachusetts,Easy,PETERSHAM,,Plymouth,Armor Turkey,Kingston,Petersham,Towns in Massachusetts,stow,cookbooks,[[NONE]]
+0004.jpg,Towns in Massachusetts,Medium,LENOX,,Natick,Newton,Peabody,Turners Falls,"PEACE: Y, SWITCH: N, HIGHLAND: Y",nantucket,nantucket,[[NONE]]
+0005.jpg,Towns in Massachusetts,Easy,SAVOY,,Savoy,Savoy City,Savoy,Oya,SAVOY HOTEL,stow,boston,[[NONE]]
+0006.jpg,Towns in Massachusetts,Easy,FLORIDA,,[[NONE]],Arlington,Falmouth,Sandwich,Florida,fl and mass,Florida,Alabama
+0007.jpg,Towns in Massachusetts,Medium,SHUTESBURY,,Martha's Vineyard,Sandwich,Mendon,Winchendon,BOSTON,stow,astronomy,[[NONE]]
+0008.jpg,Towns in Massachusetts,Medium,FITCHBURG,,Boston,Bradford,Worcester,Stockbridge,Moody's S&P's Castle,moody's s & p's,Business & Money,[[NONE]]
+0009.jpg,Towns in Massachusetts,Hard,ERVING,,Amherst,FACS,See - reel,Seekonk,Oak,stow,Science & Math,[[NONE]]
+0010.jpg,Towns in Massachusetts,Hard,ATHOL,,Cambridge,Clock Tower,[[NONE]],Marlborough,OH (related to a town in Massachusetts),oh,Travel & Tourism,"Oh, the Places You'll Go!"
+0011.jpg,Towns in Massachusetts,Easy,MONTGOMERY,,Concord,Seal of the Commonwealth of Massachusetts,Braintree,Montgomery,"Cradle of the Confederacy: ""Civil Rights Movement"", ""Great Seal"": ""Great Seal of the State of Massachusetts""",[[NONE]],Law,[[NONE]]
+0012.jpg,Towns in Massachusetts,Easy,BUCKLAND,,Martha's Vineyard,airplane,Billerica,"Run Over (Runover, MA)",Boston,shrewsbury,Business & Money,Boston
+0013.jpg,Towns in Massachusetts,Easy,TEWKSBURY,,Springfield,Natick,Tewksbury,Sandwich,Gloucester,[[NONE]],Maps & Atlases,Stew + Agriculture = ANSA
+0014.jpg,Towns in Massachusetts,Easy,DEERFIELD,,Concord,Deerfield,Deerfield,Deerfield,hunt quiet,stow,Crafts & Hobbies,deer
+0015.jpg,Towns in Massachusetts,Hard,BILLERICA,,Marlborough,Brockton,Yarmouth,Billerica,You owe me $50,shrewsbury,law,[[NONE]]
+0016.jpg,Towns in Massachusetts,Medium,LAKEVILLE,,Amherst,Amesbury,[[NONE]],Mass,Boston,st johnsbury,Travel & Tourism,[[NONE]]
+0017.jpg,Towns in Massachusetts,Easy,ROWLEY,,Boston,Springfield,[[NONE]],Freetown,Boston,shrewsbury,Cartoonists & Comics,[[NONE]]
+0018.jpg,Towns in Massachusetts,Medium,RAYNHAM,,[[NONE]],Boston,Weymouth,Burlington,"Ham and Pineapple: ""Ham and Pineapple"", ""Knitted Fabric"": ""Knitted Fabric"", ""Pineapple"": ""Pineapple""",stow,Cooking & Food Science,[[NONE]]
+0019.jpg,Towns in Massachusetts,Easy,LITTLETON,,[[NONE]],1000 Islands,[[NONE]],Tonbridge,Towns in Massachusetts (100th state),shrewsbury,Business & Money,[[NONE]]
+0020.jpg,Towns in Massachusetts,Easy,GOSHEN,,Concord,Tea,Wenham,Henley,Boston,shrewsbury,"Health, Fitness & Dieting",[[NONE]]
+0021.jpg,Towns in Massachusetts,Medium,BOSTON,,[[NONE]],Warren,[[NONE]],Stoughton,"Boston: ""S"", ""Cambridge"": ""S"", ""Chelsea"": ""S"", ""Dorchester"": ""S"", ""Hingham"": ""S"", ""Hull"": ""S"", ""Lowell"": ""S"", ""New Bedford"": ""S"", ""Newburyport"": ""S"", ""Quincy"": ""S"", ""Salem"": ""S"", ""Somerville"": ""S"", ""Springfield"": ""S"", ""Weymouth"": ""S""",shrewsbury,Business & Money,[[NONE]]
+0022.jpg,Towns in Massachusetts,Medium,WILLIAMSBURG,,Amherst,Burger King's Castle,Kingston,Williamstown,"William: ""Boston"", ""King"": ""Burlington"", ""Pickle"": ""Worcester""",shrewsbury,"Health, Fitness & Dieting",Bourne
+0023.jpg,Towns in Massachusetts,Easy,READING,,Salem,Boston,[[NONE]],Raynham,Boston,monopoly - screenshot thumbnail,Humor & Entertainment,[[NONE]]
+0024.jpg,Towns in Massachusetts,Easy,SHARON,,Amesbury,Brewster,Stoneham,Sharon,Shrewsbury,shrewsbury,"Health, Fitness & Dieting",[[NONE]]
+0025.jpg,Towns in Massachusetts,Medium,BRIDGEWATER,,Salem,Shelburne Falls,[[NONE]],Wayland,"Boston, Massachusetts, Towns",shrewsbury,astronomy,[[NONE]]
+0026.jpg,Towns in Massachusetts,Easy,STERLING,,Fort Ticonderoga,Pound,Quincy,Rehoboth,Boston,shrewsbury,"Health, Fitness & Dieting",[[NONE]]
+0027.jpg,Towns in Massachusetts,Easy,EGREMONT,,[[NONE]],Triangle,Bedford,Easthampton,Shrek,elizabethtown,etymology,[[NONE]]
+0028.jpg,Towns in Massachusetts,Medium,ACUSHNET,,Chatham,Nantucket,Weymouth,Carver,A,[[NONE]],fishing,[[NONE]]
+0029.jpg,Towns in Massachusetts,Easy,BOXFORD,,Ford Raptor,Boxford,Boxford,Carlisle,this,shrewsbury,Business & Money,[[NONE]]
+0030.jpg,Towns in Massachusetts,Medium,MONTEREY,,Boston,Sagamore,Chicopee,Chelmsford,Boston,stow,"Health, Fitness & Dieting",[[NONE]]
+0031.jpg,Towns in Massachusetts,Easy,BEDFORD,,Duxbury,Dedham,Bedford,Dudley,DD,dd - dd - dd,Children's Books,[[NONE]]
+0032.jpg,Towns in Massachusetts,Medium,LEOMINSTER,,Boston,[[NONE]],[[NONE]],Sterling,Uncertain (requires more context),boston,astronomy,[[NONE]]
+0033.jpg,Towns in Massachusetts,Easy,HATFIELD,,Boston,Northampton,Attleboro,Fedor(a) + Electric,Hatfield,shrewsbury,Science & Math,Millbury
+0034.jpg,Towns in Massachusetts,Medium,EASTON,,Boston,SMA,Middleborough,Israel on,"Towns in Massachusetts: ""Boston, Cambridge, Springfield, Worcester""",stow,egypt,[[NONE]]
+0035.jpg,Towns in Massachusetts,Easy,CHESTERFIELD,,[[NONE]],Amherst,Springfield,Chesterfield,JUSTICE in Massachusetts,shrewsbury,boston,Chesterfield
+0036.jpg,Towns in Massachusetts,Hard,WAYLAND,,[[NONE]],Pinkham,Wayland,"Dennis, MA",lil_yachty,shrewsbury,Computers & Technology,[[NONE]]
+0037.jpg,Towns in Massachusetts,Easy,WESTFIELD,,Concord,Berkshire,Westfield,Greenfield,Uncertain (no clear connection),stow,photography,[[NONE]]
+0038.jpg,Towns in Massachusetts,Easy,EAST BRIDGEWATER,,Salem,Bridgewater,West Bridgewater,Needham,"Compass rose with ""MASSACHUSETTS"" at center",stow,compass,[[NONE]]
+0039.jpg,Towns in Massachusetts,Easy,NORTH READING,,Brewster,Ashland,North Attleborough,North Reading,Santa Claus,santa claus,Computers & Technology,[[NONE]]
+0040.jpg,Towns in Massachusetts,Hard,GOSNOLD,,Boston,Boston,Groton,Rockport,"GO: Gloucester, T: Taunton, H: Hingham, A: Ashfield, S: Southborough, C: Chesterfield, D: Dover",shrewsbury,science,[[NONE]]
+0041.jpg,Towns in Massachusetts,Easy,MIDDLETON,,Boston,Boston,[[NONE]],Cambridge,Boston,buckingham palace,"Crafts, Hobbies & Home",[[NONE]]
+0042.jpg,Towns in Massachusetts,Easy,HUNTINGTON,,Marblehead,Beverly,[[NONE]],Beverkly Farms,this,shrewsbury,harvard,[[NONE]]
+0043.jpg,Towns in Massachusetts,Easy,LINCOLN,,Boston,Boston,[[NONE]],Gardner,TGMASSACHUSETTS,shrewsbury,Educators' Tools & Resources,"Ames, Massachusetts"
+0044.jpg,Towns in Massachusetts,Easy,WOBURN,,Boston,Berkshire,Woburn,Winchendon,"wombat, door, urn",wombat,Crafts & Hobbies,[[NONE]]
+0045.jpg,Towns in Massachusetts,Easy,FAIRHAVEN,,Salem,Fairgrounds,Fairhaven,Barnstable,BOSTON,shrewsbury,history,Boston
+0046.jpg,Towns in Massachusetts,Medium,HARDWICK,,Greenfield,Greenfield,Hopkinton,Charlton,Apple Orchard,shrewsbury,Science & Nature,[[NONE]]
+0047.jpg,Towns in Massachusetts,Easy,LEE,,Boston,Salem,[[NONE]],Lee,Uncertain (possible historical figure or town name),harvard,"History, Biography & Memoirs",[[NONE]]
+0048.jpg,Towns in Massachusetts,Easy,REVERE,,Concord,Concord,[[NONE]],Wellesley,Uncertain (requires more context),stow,arts & crafts,Natick
+0049.jpg,Towns in Massachusetts,Easy,LYNN,,Marblehead,Beverly,Duxbury,Needham,Boston,person,Humor & Entertainment,"Springfield, Massachusetts"
+0050.jpg,Towns in Massachusetts,Medium,HANOVER,,Boston,I-70,Rowe,Canton,"A: ""L"", ""B"": ""I"", ""C"": ""T"", ""D"": ""O"", ""E"": ""N"", ""F"": ""S"", ""G"": ""Towns in Massachusetts""",liuzhou,Travel & Tourism,[[NONE]]
+0051.jpg,Towns in Massachusetts,Medium,MAYNARD,,Richard the Lionheart,Richard,Barnstable,Sterling,this,kingston,Arts & Photography,[[NONE]]
+0052.jpg,Towns in Massachusetts,Easy,DALTON,,Boston,Boston,[[NONE]],Dalton,"Boston: ""Boston"", ""Cambridge"": ""Cambridge"", ""Salem"": ""Salem""",shrewsbury,Science & Math,[[NONE]]
+0053.jpg,Towns in Massachusetts,Easy,PELHAM,,Martha's Vineyard,Sunset Beach,Pepperell,Provincetown,"Hingham, Hampden, Hadley",st johnsbury,"Cookbooks, Food & Wine",[[NONE]]
+0054.jpg,Towns in Massachusetts,Easy,IPSWICH,,Gloucester,Athol,Wright's Beach,Needham,"A: ""Boston"", ""C"": ""Cambridge"", ""D"": ""Dorchester"", ""E"": ""Framingham"", ""F"": ""Hingham"", ""G"": ""Hull"", ""H"": ""Ipswich"", ""J"": ""Lowell"", ""K"": ""Lynn"", ""L"": ""Malden"", ""M"": ""Medford"", ""N"": ""New Bedford"", ""O"": ""Oxford"", ""P"": ""Plymouth"", ""Q"": ""Quincy"", ""R"": ""Salem"", ""S"": ""Springfield"", ""T"": ""Taunton"", ""U"": ""Worcester""",tewksbury,telecommunications,[[NONE]]
+0055.jpg,Towns in Massachusetts,Easy,PALMER,,Edgartown,Easton + East Bridgewater,Palmer,Palmer,East Boston,st johnsbury,sacramento,[[NONE]]
+0056.jpg,Towns in Massachusetts,Easy,AYER,,Beverly,Bayers Lake,Barre,Bayer,BOSTON,bayer,bayer,[[NONE]]
+0057.jpg,Towns in Massachusetts,Easy,HANCOCK,,[[NONE]],PALM TREE,Hanover,Hancock,Han Solo,person,Science & Nature,Hanover
+0058.jpg,Towns in Massachusetts,Medium,TYRINGHAM,,Salem,[[NONE]],Quincy,Tyngsborough,"Boston:1,""Burlington"":1,""Dartmouth"":1,""Fall River"":1,""Framingham"":1,""Hingham"":1,""Lowell"":1,""New Bedford"":1,""Newburyport"":1,""Northampton"":1,""Plymouth"":1,""Salem"":1,""Springfield"":1,""Worcester"":1",kingston,children's books,[[NONE]]
+0059.jpg,Towns in Massachusetts,Medium,NORTH ANDOVER,,Greenfield,Greenfield,Topsfield,Greenfield,Towns in Massachusetts,shrewsbury,horticulture,[[NONE]]
+0060.jpg,Towns in Massachusetts,Easy,WILLIAMSTOWN,,Salem,profession,Princeton,Prince Williamstown,this,cambridge,Travel,Worcester
+0061.jpg,Towns in Massachusetts,Easy,ORANGE,,Orange,Salem,Orange,Orange,Orleans,shrewsbury,health & fitness,[[NONE]]
+0062.jpg,Towns in Massachusetts,Hard,WHATELY,,Boston,Beverly,Norfolk,Winchendon,1-2-3 (sequence of numbers or concept of 'three'),shrewsbury,Health & Fitness,[[NONE]]
+0063.jpg,Towns in Massachusetts,Medium,BEVERLY,"BEVERLY, MASSACHUSETTS",Vineyard Haven,Vineyard Haven,Beverly,Beverly,V-I,beverly,"beverly, massachusetts",[[NONE]]
+0064.jpg,Towns in Massachusetts,Easy,CHICOPEE,,Boston,PENA,Marblehead,Chick,"Boston (as a ""Boston peanut"")",shrewsbury,"Crafts, Hobbies & Home",[[NONE]]
+0065.jpg,Towns in Massachusetts,Hard,RUSSELL,,Marblehead,Gloucester,Marlborough,Needham,Uncertain (requires more context),stow,Computers & Technology,[[NONE]]
+0066.jpg,Towns in Massachusetts,Medium,CLARKSBURG,,Haverhill,Burlington,[[NONE]],Needham,"Uncertain (playful take on towns, food, and healthcare in Massachusetts)",a hospital burger,harvard medical school,[[NONE]]
+0067.jpg,Towns in Massachusetts,Medium,SANDISFIELD,,Plymouth,Plymouth,Sandwich,Sandwich,Mathematical expression translated into a pattern,sand dunes,Science & Math,[[NONE]]
+0068.jpg,Towns in Massachusetts,Easy,WENDELL,,Riverside,[[NONE]],Carver,Winchendon,"R': 'Dell', 'B': 'Bird'",rochester,rhode island,[[NONE]]
+0069.jpg,Towns in Massachusetts,Medium,SHELBURNE,,Marblehead,Northampton,Shelburne,Percy Bysshe,this,stow,science and technology,[[NONE]]
+0070.jpg,Towns in Massachusetts,Medium,HADLEY,,Marblehead,Berkshire,Bass River,Wellfleet,this,sturgis,Sports & Outdoors,[[NONE]]
+0071.jpg,Towns in Massachusetts,Hard,SUDBURY,,"Lowell, Lawrence, and Leominster",Lion's Head,Stow,Petersham,Potato,plymouth,Science & Technology,Poole
+0072.jpg,Towns in Massachusetts,Easy,LEICESTER,,Sturbridge,Shire,Lancaster,Sherborn,Shire (associated with Massachusetts),london england,Hobbiton,[[NONE]]
+0073.jpg,Towns in Massachusetts,Easy,ALFORD,,Salem,Salem,Halifax,Weird Al Yankovic Academy,this,shrewsbury,Science & Nature,Marlborough
+0074.jpg,Towns in Massachusetts,Easy,MOUNT WASHINGTON,,Mount Washington,Northampton,[[NONE]],Washington,mass housing,mt hood,Outdoors & Travel,[[NONE]]
+0075.jpg,Towns in Massachusetts,Easy,SPENCER,,Amherst,Acton,Lexington,Canton,"A: ""Boston"", ""B"": ""Cambridge"", ""C"": ""Springfield"", ""D"": ""Worcester""",[[NONE]],Science & Math,[[NONE]]
+0076.jpg,Towns in Massachusetts,Medium,WINDSOR,,Boston,Beverly,Winchester,Wellfleet,"Boston (represented by sailor, tree, and number '1')",sacramento,Science & Nature,[[NONE]]
+0077.jpg,Towns in Massachusetts,Medium,ACTON,,Amherst,[[NONE]],[[NONE]],Needham,Boston (with state abbreviation 'MA'),shrewsbury,Medical Books,[[NONE]]
+0078.jpg,Towns in Massachusetts,Medium,NORTHBOROUGH,,[[NONE]],Brooklyn,[[NONE]],Nantucket,"Brooklyn, Queens, Bronx, Manhattan, Staten Island",new york city,Maps & Atlases,[[NONE]]
+0079.jpg,Towns in Massachusetts,Medium,WENHAM,,Rockport,Hammock Rope,Wenham,Sandwich,"R': 'Rockport', 'S': 'Salem', 'T': 'Taunton', 'H': 'Hingham'",rochester,rs,[[NONE]]
+0080.jpg,Towns in Massachusetts,Medium,WALPOLE,,"Amherst and Northampton, Massachusetts.",Purple Pineapple,Walpole,WALL-E + Hyo-Lynn,Wall-E,shrewsbury,Arts & Photography,[[NONE]]
+0081.jpg,Towns in Massachusetts,Easy,GEORGETOWN,,St. John,Boston,[[NONE]],Amherst College,Uncertain (related to Great Seal of the United States and George Washington),shrewsbury,History & Biography,[[NONE]]
+0082.jpg,Towns in Massachusetts,Easy,SOUTH HADLEY,,Boston,Paul Revere,Sudbury,Texas,Boston and various institutions related to Boston,sacramento,"History, Biography & Memoirs",Boston
+0083.jpg,Towns in Massachusetts,Hard,NORTH BROOKFIELD,,Amherst,[[NONE]],Brookline,Needham,Boston,shrewsbury,engineering,[[NONE]]
+0084.jpg,Towns in Massachusetts,Easy,BOYLSTON,,Boston,Brockton,Salem,Rockport,BOSTON,stow,cooking,[[NONE]]
+0085.jpg,Towns in Massachusetts,Hard,DANVERS,,Boston,[[NONE]],Danvers,Bridgewater,"Boston, ""Braintree"", ""Burlington"", ""Cambridge"", ""Chelsea"", ""Dorchester"", ""Framingham"", ""Hingham"", ""Hull"", ""Lexington"", ""Lowell"", ""Malden"", ""Medford"", ""Newton"", ""North Reading"", ""Revere"", ""Somerville"", ""Springfield"", ""Waltham"", ""Watertown""",stow,Maps & Atlases,[[NONE]]
+0086.jpg,Towns in Massachusetts,Easy,HANSON,,Boston,Boston,Marlborough,Rockland,TOWNS in MASSACHUSETTS,shrewsbury,Business & Money,On Off Switch
+0087.jpg,Towns in Massachusetts,Easy,RICHMOND,,Adams,Salem,[[NONE]],Seekonk,Justice goes to the stars,ada,Law,[[NONE]]
+0088.jpg,Towns in Massachusetts,Easy,BOLTON,,Salem,Hair,Bedford,Sudbury,"DANN: ""DANN"", ""Bowl"": ""Bowl"", ""100KG"": ""100KG""",shrewsbury,science and technology,[[NONE]]
+0089.jpg,Towns in Massachusetts,Easy,SALEM,,[[NONE]],Springfield,Salem,Salem,Uncertain (requires more context),stow,Law,Witch hunt
+0090.jpg,Towns in Massachusetts,Medium,HARVARD,,Hyde Park,Brockton,[[NONE]],Cambridge,"Harvard: ""Boston"", ""ARD"": ""Boston"", ""Bill Clinton"": ""Arlington"", ""Kevin Sorbo"": ""Arlington""",harvard,harvard,[[NONE]]
+0091.jpg,Towns in Massachusetts,Easy,WEST STOCKBRIDGE,,Salem,Boston,West Stockbridge,Stockton,"Boston:1,""Springfield"":2,""Cambridge"":3,""Lowell"":4,""New Bedford"":5,""Fall River"":6,""Worcester"":7,""Newburyport"":8,""Salem"":9,""Lynn"":10,""Hingham"":11,""Marlboro"":12,""Braintree"":13,""Quincy"":14,""Weymouth"":15,""Hull"":16,""Chelsea"":17,""Revere"":18,""Dorchester"":19,""Mattapan"":20,""Rockport"":21,""South Boston"":22,""Brighton"":23,""Chelsea Harbor"":24,""Winthrop"":25,""Boston Harbor"":26",st louis,Business & Money,[[NONE]]
+0092.jpg,Towns in Massachusetts,Easy,ASHFIELD,,[[NONE]],Cow-mon,Ashfield,Sterling,"Ash: ""Ash Ketchum"", ""Pikachu"": ""Pikachu"", ""Towns in Massachusetts"": ""Massachusetts Towns""",shrewsbury,Science & Nature,[[NONE]]
+0093.jpg,Famous movies,Hard,BICYCLE THIEVES,,V for Vendetta,RV,Beauty and the Beast,Batman Begins,AR (play on the word 'Air'),the bbc,vr,[[NONE]]
+0094.jpg,Famous movies,Hard,CITIZEN KANE,,Jaws,Jaws,Jurassic Park,Finding Nemo,A series of 'D's representing a famous movie,this,Science & Technology,[[NONE]]
+0095.jpg,Famous movies,Medium,VERTIGO,,Fast and Furious,Famous Movie Fan,Ferris Bueller's Day Off,Indiana Jones and the Last Crusade,BRAVE,california dreamin',california,[[NONE]]
+0096.jpg,Famous movies,Medium,8½,,The King's Speech,The King's Speech,Age of Innocence,Half Nelson,The Lion King (Simba and Rafiki and Mufasa),king kong,age of ulysses,[[NONE]]
+0097.jpg,Famous movies,Hard,BATTLESHIP POTEMKIN,,Jurassic Park,Jurassic Park,Back to the Future,Batman + Cow - Cat + Hippo + Rose - Hippo - Domino - 3 of a Kind - Music,"Batman: ""The Dark Knight"", ""Cow"": ""Madagascar"", ""Cat"": ""The Puss in Boots"", ""Hippo"": ""Hannah Montana"", ""Flower"": ""The Princess and the Frog"", ""Dice"": ""Die Hard"", ""Music"": ""The Sound of Music""",savages,symphony of animals,[[NONE]]
+0098.jpg,Famous movies,Hard,THE GODFATHER,,Edward Scissorhands,The Birds,Schindler's List,The NeverEnding Story,E.T. phonebook,this,apocalypse now,[[NONE]]
+0099.jpg,Famous movies,Medium,GONE WITH THE WIND,,The Hunger Games,The Window Walker,Gravity,Back to the Future,"A: ""The Matrix"", ""B"": ""The Lion King"", ""C"": ""The Shining"", ""D"": ""The Godfather""",the king's speech,apocalypse now,[[NONE]]
+0100.jpg,Famous movies,Easy,DIE HARD,,The Tao of Pooh,Titanic,Close Encounters of the Third Kind,Love Actually,Love,this,music,[[NONE]]
+0101.jpg,Famous movies,Easy,THE EMPIRE STRIKES BACK,,Up in the Air,Les Misérables,Indeterminate Famous Movie Title,New York Minute,Uncertain (possible reference to 'Superman' and New York City),this,new york,[[NONE]]
+0102.jpg,Famous movies,Medium,BLADE RUNNER,,The Matrix,Back to the Future,Ocean's Eleven,Raiders of the Lost Ark,420 Drums (play on '420' and '2001: A Space Odyssey'),a man in a suit,math,[[NONE]]
+0103.jpg,Famous movies,Easy,SUPERMAN,,The Big Lebowski,Four Weddings and a Funeral,Superman,Yi san si wu man (Yi san si wu man),"Son of God, War, God",this,apocalypse now,[[NONE]]
+0104.jpg,Famous movies,Medium,ROCKY,,Fiddler on the Roof,2001: A Space Odyssey,Zombieland,Raiders of the Lost Ark,Avatar + O = A,the lord of the rings,apocalypse now,[[NONE]]
+0105.jpg,Famous movies,Easy,HEDGEHOG IN THE FOG,,Large,Frogs and Hedgehogs,The Fog of War,The Neverending Story,Roger Rabbit,rv,v for vendetta,[[NONE]]
+0106.jpg,Cities,Easy,ATHENS,,Atlanta,4,Athens,Atlanta,Atlanta,a + b = c,Pets & Animals,K
+0107.jpg,Cities,Easy,BEIRUT,,[[NONE]],[[NONE]],Istanbul,Stockholm,San,lisbon + porto,Travel,[[NONE]]
+0108.jpg,Cities,Easy,BELGRADE,,Bell Tower,Alarm,Belgrade,Las Vegas,ring grade,bell + paper = ring,Business & Money,Bell + Handwriting
+0109.jpg,Cities,Easy,BUCHAREST,,Atlanta,Paris,Reykjavik,Jakarta,"New York City: ""NYC"", ""San Francisco"": ""SF"", ""London"": ""LON"", ""Tokyo"": ""TOKYO""",a city,Christian Books & Bibles,woman reading book
+0110.jpg,Cities,Easy,BUDAPEST,,[[NONE]],Buddha Mouse,Budapest,Kathmandu,Buddha,buddha statue + rat,Religion & Spirituality,Buddha statue mouse catcher
+0111.jpg,Cities,Easy,CAPE TOWN,,Spiderman NY,SUPERHERO,Nashville,Smallville,this,[[NONE]],Business & Money,[[NONE]]
+0112.jpg,Cities,Easy,CARACAS,,An,Auckland,Spokane,[[NONE]],albuquerque,a city,Business & Money,[[NONE]]
+0113.jpg,Cities,Easy,HELSINKI,,Ice,faucet,Fresno,Helsinki,"firehouse: ""firehouse"", ""sink"": ""sink"", ""information"": ""information""",a sink and a fire,"Health, Fitness & Dieting",[[NONE]]
+0114.jpg,Cities,Easy,KATHMANDU,,New York,Doh!,Kathmandu,Cat-Do,"cat: ""do"", ""man"": ""dog""",do a cat,Business & Money,[[NONE]]
+0115.jpg,Cities,Easy,KOLKATA,,Athens,A City,Kolkata,Jakarta,"New York City: ""NYC"", ""San Francisco"": ""SF"", ""London"": ""LON"", ""Paris"": ""PAR"", ""Tokyo"": ""TOKYO"", ""Toronto"": ""TOR"", ""Chicago"": ""CHI"", ""Mexico City"": ""MEXCITY"", ""Rio de Janeiro"": ""RIO"", ""Sydney"": ""SYDNEY"", ""Mumbai"": ""BOMBAI"", ""Beijing"": ""BEIJING"", ""Seoul"": ""SEOUL"", ""India"": ""INDIA"", ""Japan"": ""JAPAN"", ""Russia"": ""RUSSIA"", ""Africa"": ""AFRICA"", ""Australia"": ""AUSTRALIA"", ""Spain"": ""SPAIN"", ""Germany"": ""GERMANY"", ""Italy"": ""ITALY"", ""China"": ""CHINA"", ""Canada"": ""CANADA"", ""France"": ""FRANCE"", ""United States"": ""USA"", ""United Kingdom"": ""UK"", ""Sweden"": ""SWEDEN"", ""Norway"": ""NORWAY"", ""Finland"": ""FINLAND"", ""Indonesia"": ""INDONESIA"", ""Brazil"": ""BRAZIL"", ""Argentina"": ""ARGENTINA"", ""Mexico"": ""MEXICO"", ""Peru"": ""PERU"", ""Colombia"": ""COLOMBIA""",a cat and coal,science,coal
+0116.jpg,Cities,Medium,LISBON,,[[NONE]],Paris,Xodos,New York,t,tees,tetanus,[[NONE]]
+0117.jpg,Cities,Medium,MUMBAI,,City Park,City Stroller,Budapest,"Goodbye, baby.","City: ""New York City"", ""City"": ""San Francisco"", ""City"": ""Los Angeles""",a city,Parenting & Families,hugs
+0118.jpg,Cities,Medium,NEW DELHI,,Chicago,Seattle,Newmarket,New Delhi,"New York City: ""S"", ""San Francisco"": ""N"", ""Los Angeles"": ""S""",s + m = s,newspaper,sa
+0119.jpg,Cities,Easy,QUITO,,Paris,Key West,Key West,New York,key,a key to a city,"Health, Fitness & Dieting",[[NONE]]
+0120.jpg,Cities,Easy,SALT LAKE CITY,,New York,Sugarland,Salt Lake City,Salt Lake City,"New York City: ""NYC"", ""San Francisco"": ""SF"", ""Los Angeles"": ""LA"", ""Chicago"": ""Chicago"", ""Miami"": ""Miami"", ""Houston"": ""Houston"", ""Dallas"": ""Dallas"", ""Phoenix"": ""Phoenix"", ""Seattle"": ""Seattle"", ""Atlanta"": ""Atlanta"", ""Washington D.C."": ""Washington D.C."", ""Denver"": ""Denver"", ""San Diego"": ""San Diego"", ""Las Vegas"": ""Las Vegas"", ""Portland"": ""Portland"", ""Tampa"": ""Tampa"", ""Orlando"": ""Orlando"", ""Charlotte"": ""Charlotte"", ""Nashville"": ""Nashville"", ""Indianapolis"": ""Indianapolis"", ""Cincinnati"": ""Cincinnati"", ""Detroit"": ""Detroit"", ""Memphis"": ""Memphis"", ""Baltimore"": ""Baltimore"", ""Kansas City"": ""Kansas City"", ""Oklahoma City"": ""Oklahoma City"", ""Dallas"": ""Dallas"", ""Miami"": ""Miami"", ""Houston"": ""Houston"", ""Chicago"": ""Chicago"", ""Phoenix"": ""Phoenix"", ""Seattle"": ""Seattle"", ""Atlanta"": ""Atlanta"", ""Washington D.C."": ""Washington D.C."", ""Denver"": ""Denver"", ""San Diego"": ""San Diego"", ""Las Vegas"": ""Las Vegas"", ""Portland"": ""Portland"", ""Tampa"": ""Tampa"", ""Orlando"": ""Orlando"", ""Charlotte"": ""Charlotte""",a lake and a lake,"Health, Fitness & Dieting",lake + jar of pills
+0121.jpg,Cities,Easy,SINGAPORE,,Austin,Aqua,Singapore,Las Vegas,"Austin: ""Austin"", ""San Francisco"": ""San Francisco"", ""New York"": ""New York""",a + b = c,Children's Books,[[NONE]]
+0122.jpg,Cities,Easy,TAIPEI,,NYC,Tokyo,Chicago,Las Vegas,tie,a tie and a credit card,Business & Money,[[NONE]]
+0123.jpg,Cities,Easy,VENICE,,New Orleans,us,Nice,Venice,new york,jupiter + us,astronomy,[[NONE]]
+0124.jpg,Cities,Medium,WARSAW,,[[NONE]],Camelot,Nice,Bayeux,Bayeux,a knife and a saw,"Crafts, Hobbies & Home",[[NONE]]
+0125.jpg,Cities,Easy,WELLINGTON,,Deer Park,DRAINING,Wellington,Beijing,this,ing + dra = dra,dictionaries,[[NONE]]
+0126.jpg,Cities,Easy,WICHITA,,[[NONE]],Vienna,Quito,Moscow,new york city,a city,Science Fiction & Fantasy,[[NONE]]
+0127.jpg,Cities,Medium,ZURICH,,Cities,[[NONE]],Cambridge,Riyadh,"City: ""London"", ""Money"": ""Bank of England"", ""City"": ""New York"", ""Money"": ""Federal Reserve""",a horse and carriage,Business & Money,Horse + Man with Money
+0128.jpg,Surnames,Easy,ARMSTRONG,,John,Armhands,Armstrong,Armstrong,this,smith,"Health, Fitness & Dieting",Armstrong
+0129.jpg,Surnames,Easy,BEETHOVEN,,Horowitz,Hughes,Beethoven,Beets + h + oven,"beetle: ""b"", ""oven"": ""o"", ""h"": ""h""",h + h,beet,Whirlpool
+0130.jpg,Surnames,Easy,HAWKING,,[[NONE]],Hawk-monarch,Hawking,Sparrow + King,golden,hawk,Arts & Crafts,Bird of Gold
+0131.jpg,Surnames,Easy,HAWTHORNE,,Kelp,KK,Hawthorne,Hawthorn,kirk,koehler,Science & Nature,[[NONE]]
+0132.jpg,Surnames,Easy,HEGEL,,Bale,Seagull,Bale,Hayward,this,hays,Arts & Photography,[[NONE]]
+0133.jpg,Surnames,Easy,KAFKA,,P-P-P-P,Pope,Accocello,Armstrong,this,p,"Health, Fitness & Dieting",[[NONE]]
+0134.jpg,Surnames,Easy,MOZART,,Zucchini,Spooner,Mozart,Painter Grass Z,"Lawnmower: ""Mow"", ""Palette"": ""Paint"", ""Z"": ""Addition""",z + +,Science & Nature,Cox
+0135.jpg,Surnames,Easy,NEWTON,,Lizard,Lizard,Dragoon,Newton,"newt: ""newt""",a lizard,Science & Nature,[[NONE]]
+0136.jpg,Surnames,Easy,PLATO,,Ok,O'Neill,Plato,Saucer + O,this,o'connor,"Cookbooks, Food & Wine",Koh
+0137.jpg,Surnames,Easy,SHAKESPEARE,,sword,Sir Strawberry,Spearman,Straw + Berry + Spear,"Strawberry: ""Berry"", ""Knight"": ""Warrior""",samuel,"Health, Fitness & Dieting",Knight
+0138.jpg,Surnames,Easy,SOCRATES,,Crate,Carter,Socrates,Baskett,"A': 'B', 'B': 'C', 'C': 'D', 'D': 'E'",crate,Crafts & Hobbies,[[NONE]]
+0139.jpg,Surnames,Medium,TESLA,,Taylor,Teklehaimanot,Willa,Test + Lake,"takes: ""ke""",tee ke,Travel & Tourism,keat
+0140.jpg,Marine life,Easy,BARNACLE,,[[NONE]],Nemo,barnacle,Eel,"N': 'N', 'S': 'S', 'E': 'E', 'W': 'W'",a barn and a foot,nursing,[[NONE]]
+0141.jpg,Marine life,Easy,CRAB,,A,Blackfish,Sea bream,blue whale,"A: ""B"", ""B"": ""C"", ""C"": ""D""",a bmw car and a woman's body,"Health, Fitness & Dieting",[[NONE]]
+0142.jpg,Marine life,Easy,DOLPHIN,,Doll wearing a fish costume,Fish Dress,dolphin,merMAID,mermaid,mermaid tail doll,arts & crafts,Doll + Fish tail
+0143.jpg,Marine life,Easy,DUGONG,,DRT,Anemone,drumfish,gong + weed,water,a gong and a leaf,"Health, Fitness & Dieting",water droplet + gong
+0144.jpg,Marine life,Easy,GREAT WHITE SHARK,,Shark Pizza Painting,Artist,Great White Shark,Parmesan paint shark,shark,a shark and a chef,cookbooks,[[NONE]]
+0145.jpg,Marine life,Easy,MANATEE,,[[NONE]],Anemone,manatee,Manatee,"A: ""Man"", ""B"": ""Cup of tea"", ""C"": ""Spoon""",a man and a cup of tea,"Health, Fitness & Dieting",teal fish
+0146.jpg,Marine life,Medium,MARLIN,,shark cage,S + K = M,Marlin,shark,"S: ""Mars"", ""K"": ""Chain""",sk = mars k = lake,science,[[NONE]]
+0147.jpg,Marine life,Medium,MERMAID,,glove,horse,seahorsemaid,sea horse,"horse: ""dog"", ""woman"": ""man""",a woman cleaning a horse,Animals & Pets,horse + table
+0148.jpg,Marine life,Medium,OCTOPUS,,88,Octopus,catfish,octopus,8 + '+' = 8 + 8 = 16,a cat,Pets & Animals,[[NONE]]
+0149.jpg,Marine life,Easy,PENGUIN,,fishing,Golden Pen,penguin,stingray,"fishing_rod: ""G"", ""medal"": ""G"", ""pen"": ""G""",[[NONE]],Science & Nature,GG
+0150.jpg,Marine life,Easy,PLANKTON,,I woman,TON,whale,Plankton,"Woman: ""1 Ton"", ""Beach"": ""1 Ton""",[[NONE]],"Fitness, Sports & Outdoors",[[NONE]]
+0151.jpg,Marine life,Easy,SEAHORSE,SEA HORSE,Seahorse,eleven,seahorsemaid,sea horse,horse,a horse and a sea,Science & Technology,horseback
+0152.jpg,Marine life,Hard,SQUID,,goldfish,[[NONE]],Queenfish,riptide,Uncertain (challenging to deduce a marine life connection),a british bank note,Science & Nature,Legless.
+0153.jpg,Marine life,Easy,STARFISH,,Comet,Aquarium,starfish,starfish,starfish,a goldfish and a starfish,Science & Nature,Starfish and goldfish combined
+0154.jpg,Marine life,Easy,SAND DOLLAR,SAND DOLLARS,reef,drowned,sand dollar,sand dollar,Uncertain (challenging to derive a definitive answer),sand dollars,Business & Money,Sand dollar
+0155.jpg,Marine life,Easy,WHALE,,whale,Whale,whale,Whale's Ale,weasel,a pint of beer,[[NONE]],Wii
+0156.jpg,Cities,Easy,THE BOTTOM,,Bikini Bottom,Botanical,Thebes,Bikini Bottom,Bikini Bottom,the beach,beach,SpongeBob SquarePants
+0157.jpg,Cities,Medium,ACCRA,,Southwest,Santiago,Aarhus,Chicago,"shack: ""S"", ""horse"": ""H"", ""city"": ""C""",shin + egypt,egypt,[[NONE]]
+0158.jpg,Cities,Easy,AMMAN,,New York,Hamburg,Amman,Rome,"Paris: ""Ham"", ""London"": ""Man""",ham,astronomy,[[NONE]]
+0159.jpg,Cities,Easy,AMSTERDAM,,[[NONE]],Hamster Dam,Amsterdam,Guinea Falls,dam,a guinea pig at the dam,Science & Technology,[[NONE]]
+0160.jpg,Cities,Easy,ANKARA,,[[NONE]],Airport,Anchorage,Anchorage,Uncertain (city that starts with 'A'),anchor chain,arts & crafts,Amsterdam
+0161.jpg,Cities,Medium,ANTANANARIVO,,Banana Republic,Boston,Antananarivo,Providence,"New York City: ""NYC"", ""Boston"": ""Boston"", ""Washington D.C."": ""Washington D.C.""",[[NONE]],biology,[[NONE]]
+0162.jpg,Cities,Hard,ASHGABAT,,New York,Dark City,Charleston,Paris,New York City,molecule of oil,Science & Math,[[NONE]]
+0163.jpg,Cities,Medium,ASMARA,,different colors,graze,Oshkosh,Islamabad,"CITIES (combination of 'A', 'I', 'C', 'T')",a horse and a donkey,equine,Horse
+0164.jpg,Cities,Medium,ASTANA,,Mountain View,Mountain Range in the City,Bangkok,Stockholm,"Sunset: ""Sailboat"", ""Man"": ""Ax"", ""Tree"": ""Leaf"", ""City"": ""Building""",a city,photography,City skyline
+0165.jpg,Cities,Medium,ASUNCION,,New York City,[[NONE]],Asuncion,Helsinki,"A: ""The Sun"", ""Roman numerals"": ""10^2 + e^2 in Roman numerals""",[[NONE]],Science & Math,1024 e2
+0166.jpg,Cities,Easy,BAGHDAD,,Cape Town,Family Time in the Park,Sacramento,Baggage,this (play on cities),[[NONE]],Computers & Technology,[[NONE]]
+0167.jpg,Cities,Easy,BAKU,,Cities,[[NONE]],Baghdad,Garbage Truck,"New York City: ""NYC"", ""San Francisco"": ""SF"", ""London"": ""LON"", ""Tokyo"": ""TOKYO""",a city,music,[[NONE]]
+0168.jpg,Cities,Medium,BAMAKO,,Auckland,New York,[[NONE]],notebook,New York,a trombone and an apple,music,[Tuba] + [Apple] = [Tuba Apple]
+0169.jpg,Cities,Hard,BANDAR SERI BEGAWAN,,Dalmatia,Dalmatia,Van,San Diego,"A: ""A"", ""B"": ""B"", ""C"": ""C"", ""D"": ""D""",a city,Travel,[[NONE]]
+0170.jpg,Cities,Easy,BANGKOK,,birds,Fowl Play,Bangkok,Bangkok,fireworks,rooster and fireworks,rooster,Foghorn
+0171.jpg,Cities,Easy,BEIJING,,[[NONE]],Sailboat Symphony,Bayonne,Rio de Janeiro,LEO,a city on the sea,Travel,LE
+0172.jpg,Cities,Easy,BEIRUT,,Chicago,Bear,Beirut,Reno,Boston (bear and boot association),a bear in a blue boot,etymology,Bearbeit
+0173.jpg,Cities,Easy,BELMOPAN,,New York City,Bert,Copenhagen,Beijing,B,b,elmo,[[NONE]]
+0174.jpg,Cities,Easy,BERN,,Kingston Town,Kingston,Geneva,Beijing,"New York City: ""NYC"", ""San Francisco"": ""SF"", ""Los Angeles"": ""LA""",ing + ing,Computers & Technology,[[NONE]]
+0175.jpg,Cities,Easy,BISHKEK,,Detriot,Dubai,Budapest,Buadapest,"Boston: ""D"", ""New York"": ""C"", ""Chicago"": ""A""",b + d = b + d,physics,bottle cap
+0176.jpg,Cities,Easy,BISSAU,,Tokyo,Scizzor Rock City,Poznań,New York,Ibis,a bird with a saw,Science & Technology,[[NONE]]
+0177.jpg,Cities,Easy,BOGOTA,,Toronto,Toronto,Cupertino,Las Vegas,Sort beach directions North South,so rio de janeiro,"Health, Fitness & Dieting",[[
+0178.jpg,Cities,Medium,BRASILIA,,New York City,City Circle Square,Brasilia,St. Petersburg,new york,russian flag and a russian flag,"Health, Fitness & Dieting",Russia
+0179.jpg,Cities,Medium,BRATISLAVA,,New York,Kiev,Barcelona,Tokyo,this,a city,Science & Math,[[
+0180.jpg,Cities,Easy,BRAZZAVILLE,,City Construction,[[NONE]],Truman,New Haven,[[NONE]],a hammer,harpsichord,WROCLAW
+0181.jpg,Cities,Easy,BRUSSELS,,San Francisco,Growth,Brussels,Brussels,"Sprout: Sprout, Brussels: Brussels Sprout",cabbage sprouts,Science & Math,sprout
+0182.jpg,Cities,Medium,BUJUMBURA,,New York City,City Hall,[[NONE]],Paris,1,a city,Science & Nature,Cuba
+0183.jpg,Cities,Medium,CAIRO,,Rome,Voltage Resistance,Birmingham,Volgograd,"BMW: ""Moscow"", ""Nitrogen"": ""Resistance""",r residuum,Science & Math,Chicago
+0184.jpg,Cities,Medium,CANBERRA,,New York,Snohomish,New York,New York,NEW YORK,sneer / sneer,Sports,[[NONE]]
+0185.jpg,Cities,Medium,CHISINAU,,Inn,urban,Kalamazoo,Kentucky Fried Chicken,"Fish': 'K+I+H', 'Cities': 'F+I+N+H'",k f n c,chemistry,[[NONE]]
+0186.jpg,Cities,Easy,CONAKRY,,New York,New York,Canberra,Cincinnati,"Paris: ""France"", ""Rome"": ""Italy""",canadian flag,etymology,[[NONE]]
+0187.jpg,Cities,Easy,COPENHAGEN,,New Orleans,Wichita,Liverpool,Paris,Police,a city,Arts & Photography,[[NONE]]
+0188.jpg,Cities,Easy,DAKAR,,Rome,Rio de Janeiro,Pierre,Venice,Rome,r pier,Travel & Tourism,Rio de Janeiro
+0189.jpg,Cities,Easy,DAMASCUS,,New York,Vienna,Venice,Las Vegas,"New York City: ""NYC"", ""San Francisco"": ""SF"", ""Miami"": ""Miami""",venice,Literature & Fiction,[[NONE]]
+0190.jpg,Cities,Easy,DHAKA,,[[NONE]],[[NONE]],Dakar,[[NONE]],DAD,[[NONE]],Science & Nature,DA
+0191.jpg,Cities,Easy,DILI,,[[NONE]],Eucalyptus,Delhi,Weed E,dill,el dillo,"Health, Fitness & Dieting",[[NONE]]
+0192.jpg,Cities,Easy,DJIBOUTI,,London,Naples,Shiraz,Tehran,Uncertain (challenging to determine exact meaning),nairobi,health & fitness,[[NONE]]
+0193.jpg,Cities,Medium,DODOMA,,[[NONE]],Tokyo,Dodo Pt,Dodoma + Mumbai + Moscow,Cities,a city,physics,[[NONE]]
+0194.jpg,Cities,Medium,DOHA,,Arabia,Dubai,Deir Ezzor,harambe,this,[[SKIPPED]],Science & Math,[[NONE]]
+0195.jpg,Cities,Hard,DUBLIN,,Cities,Sacrament,Saint Petersburg,Berlin,berlin,bush vs bush,Science & Technology,washington berlin
+0196.jpg,Cities,Hard,DUSHANBE,,Cities,Transportation and Infrastructure,San Francisco,Kathmandu,this,greece,science,[[NONE]]
+0197.jpg,Cities,Hard,FREETOWN,,New York City,[[NONE]],Firenze,Mauritania,this,a city,travel,Mauritania
+0198.jpg,Cities,Easy,FUNAFUTI,,Austin,Athens,Minneapolis,Reno,"A: ""New York"", ""I"": ""India"", ""A"": ""Austin""",a city,"Health, Fitness & Dieting",[[NONE]]
+0199.jpg,Cities,Hard,GABORONE,,Cincinnati,Macaroni,"Little Rock, Arkansas",rosetta e,A,a rock is a rock is a rock,Science & Math,PV = NT
+0200.jpg,Cities,Medium,HARGEISA,,Chicago,Carbon,Glasgow,Kyoto,"A: ""H"", ""B"": ""O"", ""C"": ""H"", ""D"": ""A""",a city is a city is a city,Science & Nature,[[NONE]]
+0201.jpg,Cities,Easy,ISLAMABAD,,Austin,A Paris,Cordoba,Mecca,A,a book,Children's Books,{ Quran } { A } { Bed }
+0202.jpg,Cities,Easy,JAKARTA,,New York,Rio de Janeiro,[[CONTENT FILTER]],Las Vegas,Ace of Hearts',a city of art,Arts & Photography,[[NONE]]
+0203.jpg,Cities,Medium,JERUSALEM,,Copenhagen,Disapproval of the Eiffel Tower in Paris,Otger,Brockton,Boston,a badger in a field,geography,[[NONE]]
+0204.jpg,Cities,Medium,JUBA,,Berlin,Berlin,Heidelberg,Berlin,Berlin,berlin,Music,[[NONE]]
+0205.jpg,Cities,Easy,KABUL,,Cities,dive,Kabul,Atlantic City,this,a yellow taxi cab and a pool,Travel & Tourism,Classic
+0206.jpg,Cities,Medium,KAMPALA,,San Diego,urban,Tunis,New Delhi,Uncertain (complex interpretation involving deer and symbols),[[SKIPPED]],zoology,Deer
+0207.jpg,Cities,Easy,KHARTOUM,,Ferrari,Cities,Carrock,Rome,"City': 'City', 'Cities': 'Cities'",a city,Sports & Outdoors,[[NONE]]
+0208.jpg,Cities,Easy,PORTO-NOVO,,San Francisco,SNOW,Porto-Novo,Naples,LIMA,san francisco,wine,{+} {s} {Lcano}
+0209.jpg,Cities,Easy,KIGALI,,Barrel,[[NONE]],Barcelona,St. Petersburg,this,[[NONE]],beer,Barrel City
+0210.jpg,Cities,Easy,KINGSTON,,New York,Cut,Kolkata,Kyoto,"K + ""E"" = ""KE""",a rock and a hammer,science,KEEY
+0211.jpg,Cities,Medium,KINSHASA,,Flagstaff,Mexico City,Kinshasa,Tacoma,"Mt. Hood: ""Oregon"", ""G"": ""Chess piece"", ""T"": ""Tower""",a city with a mountain,geography,[[NONE]]
+0212.jpg,Cities,Easy,KUALA LUMPUR,,city,Plum City,Columbus,Pittsburgh,Koopas,a sculpture of a woman and a tree,science,[[NONE]]
+0213.jpg,Cities,Medium,KUWAIT,,New York City,Barcelona,Vancouver,Toronto,"R': 'Raccoon', 'I': 'Ice', 'O': 'Orange Juice', 'C': 'City'",a raccoon in a bar,Science & Technology,[[NONE]]
+0214.jpg,Cities,Easy,KYIV,,New York,Copenhagen,Key West,Kansas City,Key city concept,a key to a city,Humor & Entertainment,[[NONE]]
+0215.jpg,Cities,Medium,LAAYOUNE,,New Orleans,Baton Rouge,Launceston,New Orleans,"A: ""B"", ""B"": ""C"", ""C"": ""D"", ""D"": ""E""",a city is a city,[[NONE]],[[NONE]]
+0216.jpg,Cities,Medium,LIBREVILLE,,New York City,Adelaide,Brisbane,Birmingham,"A: ""D"", ""B"": ""T"", ""C"": ""I"", ""D"": ""S""",a city,photography,[[NONE]]
+0217.jpg,Cities,Medium,LILONGWE,,New York City,City Weigh,Leeds,Rebellion,Uncertain (military uniform and weighing scales),a sailor's scale,history,[[NONE]]
+0218.jpg,Cities,Easy,LIMA,,Bangkok,Garland,Havana,Lima,Uncertain (collection of beans),a city,Science & Math,[[NONE]]
+0219.jpg,Cities,Medium,LJUBLJANA,,Buenos Aires,Tambora,[[NONE]],Lima,"Boston: ""B"", ""Lima"": ""L"", ""Machu Picchu"": ""M"", ""New York"": ""N"", ""Paris"": ""P"", ""San Francisco"": ""S""",tb b mn,Arts & Crafts,TUB
+0220.jpg,Cities,Easy,LOME,,[[NONE]],Separate,[[NONE]],Rome,Humorous take on 'Cities' using sand-related terms and images,san francisco,Science & Math,[[NONE]]
+0221.jpg,Cities,Medium,LUANDA,,Motorcycle,Motorcycle City,Louisville,Bath + Bike - B + H,"City': 'City', 'Cities': 'Cities'",[[NONE]],Architecture & Design,HFF
+0222.jpg,Cities,Medium,LUSAKA,,Yucca,Moscow,Louisville,Tokyo,Montana in the North and 'L' for 'Left',jm,Computers & Technology,[[NONE]]
+0223.jpg,Cities,Easy,MADRID,,Mumbai,Mud City,New York,Reno,this,a red dirt bike,Sports & Outdoors,[[NONE]]
+0224.jpg,Cities,Easy,MALABO,,City of the Rural Area,Mumbai,Malé,Stockholm,"A: ""Man"", ""B"": ""Sheep"", ""C"": ""Boat"", ""D"": ""City""",a city,Business & Money,[[NONE]]
+0225.jpg,Cities,Easy,MALE,,Eiffel Tower,Dubai,[[NONE]],Singapore,this (representation of a mall),sg,Travel & Tourism,Cities
+0226.jpg,Cities,Easy,MANAGUA,,Golden Gate,San Diego,Cordoba,Madrid,"Spain: ""Science""",spain,Science & Math,[[NONE]]
+0227.jpg,Cities,Easy,MANAMA,,New York,[[NONE]],Mexia,Managua,Panama (M+P=P),mt - p,Puerto Rico,Panama City
+0228.jpg,Cities,Medium,MANILA,,Copenhagen,Beijing,Hagåtña,New Delhi,City or similar term representing a city,a letter to a friend,"Crafts, Hobbies & Home",[[NONE]]
+0229.jpg,Cities,Easy,MAPUTO,,Manure,Skagway,[[NONE]],Las Vegas,"New York City: ""NYC"", ""San Francisco"": ""SF"", ""Mumbai"": ""BOM"", ""Tokyo"": ""TOKYO"", ""London"": ""LON"", ""Paris"": ""PARI"", ""Rio de Janeiro"": ""RJR"", ""Toronto"": ""TOR"", ""Dubai"": ""DUB"", ""Mexico City"": ""MEX"", ""Sydney"": ""SYD"", ""Seattle"": ""SEA"", ""India"": ""INDIA"", ""China"": ""CHINA"", ""Africa"": ""AFRICA"", ""Russia"": ""RUSSIA"", ""Australia"": ""AUSTRALIA"", ""Germany"": ""GERMANY"", ""Spain"": ""SPAIN"", ""Italy"": ""ITALY"", ""United States"": ""USA"", ""Canada"": ""CANADA"", ""France"": ""FRANCE"", ""United Kingdom"": ""UK"", ""Japan"": ""JAPAN"", ""Brazil"": ""BRAZIL"", ""Argentina"": ""ARGENTINA"", ""Mexico"": ""MEXICO"", ""Chile"": ""CHILE"", ""Peru"": ""PERU"", ""Colombia"": ""COLOMBIA"", ""Egypt"": ""EGYPT"", ""South Africa"": ""SOUTH AFRICA"", ""Nigeria"": ""NIGERIA"", ""Afghanistan"": ""AFGHANISTAN"", ""Pakistan"": ""PAKISTAN"", ""Indonesia"": ""INDONESES"", ""Thailand"": ""THAILAND""",sk,Science & Nature,[[NONE]]
+0230.jpg,Cities,Medium,MBABANE,,oyster,San Francisco,Madrid,Tokyo,"Boston: ""LO"", ""New York"": ""BO"", ""San Francisco"": ""LO""",london - oxford,ob,[[NONE]]
+0231.jpg,Cities,Easy,MEXICO CITY,,Emm,[[NONE]],Muscat,Nexico City,A,[[NONE]],Music,[[NONE]]
+0232.jpg,Cities,Medium,MINSK,,Golden Gate Bridge,Snow,Minneapolis,Green tea - T +eam,New York,a city,Health & Fitness,thirds? no – in team
+0233.jpg,Cities,Easy,MOGADISHU,,New York,Berlin,Mogadishu,Foggy Bottom,"A: ""U"", ""B"": ""S"", ""C"": ""F"", ""D"": ""M""",a u f m,photography,FAM A U
+0234.jpg,Cities,Hard,MONROVIA,,Cambridge,Taipei,[[NONE]],Scotch,this,a city with a bridge and a river,Travel & Tourism,I duct tape the light switch on the bridge in the city
+0235.jpg,Cities,Easy,MONTEVIDEO,,Happy Birthday,Burton,Detroit,Delhi,City Happy',a city,Photography,Happy Birthday!
+0236.jpg,Cities,Easy,MORONI,,Cagentomaton,A Coruña,Monroe,Caracas,ACA,acai berries,"Health, Fitness & Dieting",[[NONE]]
+0237.jpg,Cities,Easy,MOSCOW,,Toronto,Brisbane,Moscow,Stockholm,this,moose in the forest,nature,[[NONE]]
+0238.jpg,Cities,Medium,MUSCAT,,Cincinnati,Burrow,Beverly,Muskrat,Uncertain (beaver-related play on kinetic energy formula),a beaver in a city,science,Kilograms per meter squared per second squared
+0239.jpg,Cities,Medium,NAIROBI,,bank getaway,Venice,Nagoya,Salt Lake City,"Sodium: ""You man the getaway car."", ""bank"": ""the bank.""",man the gate can the bank,Science & Technology,[[NONE]]
+0240.jpg,Cities,Easy,NASSAU,,Apollo,NASA City,Nassau,"Houston, we have a saw.","NASA logo represented with 'Nebula', 'Astronaut', 'Satellite', 'Rocket'",nasa,Science & Nature,[[NONE]]
+0241.jpg,Cities,Medium,NAYPYIDAW,,U,Euclid,Newcastle,Pyongyang,"Paris: ""P"", ""Rio de Janeiro"": ""R"", ""Tokyo"": ""T"", ""New York"": ""N"", ""London"": ""L"", ""Tokyo"": ""T"", ""Rio de Janeiro"": ""R"", ""Paris"": ""P""",a city,computer science,[[NONE]]
+0242.jpg,Cities,Easy,N'DJAMENA,,Sunny,[[NONE]],Jakarta,New Delhi,"NYC: ""NYC"", ""DJA"": ""DJA"", ""A"": ""A""",najah,Travel,[[NONE]]
+0243.jpg,Cities,Hard,NGERULMUD,,New Orleans,Florence,Wellington,Windhoek,this,a city,architecture,[[NONE]]
+0244.jpg,Cities,Hard,NIAMEY,,EN,ENERGY,[[NONE]],Sanaa,"East: ""P"", ""West"": ""E"", ""South"": ""S"", ""North"": ""N""",a city,Sports,[[NONE]]
+0245.jpg,Cities,Hard,NICOSIA,,New York City,ABCD213424,[[NONE]],Rome,New York,a periodic table of elements,Science & Math,[[NONE]]
+0246.jpg,Cities,Hard,NOUAKCHOTT,,Atomic City,Science City,Yazd,[[NONE]],this,a city,astronomy,[[NONE]]
+0247.jpg,Cities,Easy,OSLO,,Boston,Brisbane,Casablanca,Las Vegas,"A: ""B"", ""B"": ""C"", ""C"": ""D""",b & b,Business & Money,{+} {B} {MB}
+0248.jpg,Cities,Hard,OTTAWA,,New York,Yoda,Padua,ytterbium,PATIENCE YOUNG PATIENCE ALL REVEALED',[[NONE]],Science & Mathematics,[[NONE]]
+0249.jpg,Cities,Easy,OUAGADOUGOU,,Nothing,Boston,Ouagadougou,Goose + Nothing + Se,"DG""M""S""N""",a dog and a goose,etymology,A goose on the grass.
+0250.jpg,Cities,Medium,PANAMA CITY,,Cities,New York City,Tulsa,Oklahoma City,Rodgers,[[NONE]],Architecture,[[NONE]]
+0251.jpg,Cities,Medium,PARAMARIBO,,City of operation,Military Patrol,Parnes,Barcelona,Barcelona,a city is a city is a city,history,[[NONE]]
+0252.jpg,Cities,Medium,PARIS,,Frogmore,Frog in a Red Sky,Provo,Naples,New York,san diego,Computers & Technology,uff
+0253.jpg,Cities,Medium,PORT-AU-PRINCE,,New York,[[NONE]],Minneapolis,Paris,City or place representation,nyc,Science & Math,ottawa
+0254.jpg,Cities,Easy,PORT MORESBY,,Captain,[[NONE]],Portsmouth,Copenhagen,port,san francisco,History & Biography,Admiral Cochrane
+0255.jpg,Cities,Easy,PRAGUE,,Frog Town,"Cutting, Idaho",Prague,Paris,PtFr',a frog perched on a stick,Science & Nature,[[NONE]]
+0256.jpg,Cities,Medium,PYONGYANG,,New York City,[[NONE]],Shadowcruise,Las Vegas,light switch,san francisco,Arts & Photography,Santiago
+0257.jpg,Cities,Easy,RABAT,,Batman,Batavia,[[NONE]],Gotham City,"Cities: ""Bat""",egyptian bat,egypt,[[NONE]]
+0258.jpg,Cities,Medium,REYKJAVIK,,London,London,Rockingham,Rake-toria,G I Q,london,Humor & Entertainment,Tori
+0259.jpg,Cities,Easy,RIGA,,[[NONE]],Venice,Riga,Riga,"A: ""B"", ""B"": ""C"", ""C"": ""D""",a rig,Science & Nature,Aplatform
+0260.jpg,Cities,Easy,STEPANAKERT,,New York,Florence,Bankgkok,Amarillo,C i s t,a lion in the field,travel,lion + door knocker + stick
+0261.jpg,Cities,Easy,SUCRE,,London,Sydney,Sugar Land,Great Britain to France,London,sugar cubes in a british flag,"Health, Fitness & Dieting",[[NONE]]
+0262.jpg,Cities,Easy,TALLINN,,New York,City Speaker,[[NONE]],Las Vegas,Cities,[[NONE]],book signing,[[NONE]]
+0263.jpg,Cities,Medium,TASHKENT,,Miami,[[NONE]],Ipswich,Canterbury,Southend-on-Sea,england,Travel,[[NONE]]
+0264.jpg,Cities,Easy,TIRASPOL,,Donkey,[[NONE]],Balasore,Gamma donkey,City,a donkey and a graph,Science & Math,[[NONE]]
+0265.jpg,Cities,Easy,WARSAW,,Any city,Urban Decay,[[NONE]],Warsaw,Cities,a city of fire,Business & Money,Abandoned city
+0266.jpg,Kentucky,Easy,ALE8,,"10, 15, 20, and 25",Bourbon,Derby rounds,Bourbon on the rocks,Kentucky,beer in a glass,"Crafts, Hobbies & Home",[[NONE]]
+0267.jpg,Kentucky,Medium,LAND BETWEEN THE LAKES,,Kentucky,Kentucky Derby,Kentucky Derby,Bowling Green,Kentucky,a lake,Science & Math,[[NONE]]
+0268.jpg,Kentucky,Easy,BOWLING GREEN,,Kentucky,Bowling in Kentucky,Bowling Green,Kentucky Fried Chicken,KENTUCKY,bowling alley,Sports & Outdoors,[[NONE]]
+0269.jpg,Kentucky,Easy,MOONSHINE,,The Bluegrass State,The Bluegrass State,Kentucky Bluegrass,Moonshine,Kentucky fried rat,a star and a moon,astrology,[[NONE]]
+0270.jpg,Kentucky,Easy,BLUEGRASS,"BLUEGRASS STATE, BLUE GRASS FESTIVAL, BLUE GRASS",grass,Blue Grass Festival,Bluegrass State,Bluegrass,grassy,[[NONE]],Science & Mathematics,[[NONE]]
+0271.jpg,Kentucky,Medium,TULIP POPLAR,,corn,Kentucky Derby,Louisville,tulip + (children - u),tulip,tulip,Children's Books,[[NONE]]
+0272.jpg,Kentucky,Hard,TRANSYLVANIA UNIVERSITY,,[[NONE]],Kentucky Foot,Kentucky Derby,no,"Uncertain (mathematical expressions, building, character 'G')",[[NONE]],Science & Math,[[NONE]]
+0273.jpg,Common phrases,Easy,DON'T CUT CORNERS,,haircut,cutting a square shape,Don't cut corners,cut it out,no scissors,emoji cut,Computers & Technology,cross your arms and cut the video
+0274.jpg,Common phrases,Easy,BITE THE BULLET,,I have never let my schooling interfere with my education,smile and wave,[[NONE]],bite the bullet,A bullet in the mouth,a smiley face with a knife in it,Computers & Technology,[[NONE]]
+0275.jpg,Common phrases,Easy,SPILL THE BEANS,"SPILT THE BEANS, SPILLED THE BEANS",chip off the old block,Ken's Rice,No use crying over spilled milk,spilt the beans,beans on toast,a can of worms,Computers & Technology,[[NONE]]
+0276.jpg,Food,Easy,BREAD,,apple,a + a = a,Xico,cabbage,"TAXI: ""CA"", ""CA"": ""TAXI""",a plane and a bird,Science & Math,[[NONE]]
+0277.jpg,Food,Medium,CAKE,,sandwich carrot,X-ray,beer,rice,"Sushi: ""S"", ""Soy Sauce"": ""S"", ""Sake"": ""S"", ""Sashimi"": ""S""",symphony,Science & Math,[[NONE]]
+0278.jpg,Food,Easy,SCALLOP,,ion,sea salt,chop,fried onion rigs,ion + c,ionic bonding,Science & Math,Policeman
+0279.jpg,Food,Medium,SCALLION,,Opp,Omelette,bagelwater,oatmeal,O,a doughnut,Science & Math,[[NONE]]
+0280.jpg,Food,Medium,STEAK,,[[NONE]],Bread + Cross = Communion,cranberry,apple,"Burger: ""B"", ""Tree"": ""T"", ""Bun"": ""B"", ""Orange"": ""O"", ""Ketchup"": ""K"", ""Cheese"": ""C"", ""Lettuce"": ""L"", ""Salt"": ""S"", ""Pepper"": ""P"", ""Sauce"": ""S"", ""Onion"": ""O"", ""Mayo"": ""M"", ""Pickle"": ""P"", ""Soy Sauce"": ""S"", ""Mustard"": ""M"", ""Egg"": ""E"", ""Bread"": ""B"", ""Potato"": ""P"", ""Chicken"": ""C"", ""Pork"": ""P"", ""Beef"": ""B"", ""Vegetables"": ""V"", ""Fish"": ""F"", ""Dairy"": ""D"", ""Meat"": ""M"", ""Sugar"": ""S"", ""Salt"": ""S"", ""Spices"": ""S"", ""Oil"": ""O"", ""Water"": ""W"", ""Salt"": ""S"", ""Sugar"": ""S""",a tree is a bo tree,"Health, Fitness & Dieting",[[NONE]]
+0281.jpg,Food,Medium,ONION,,[[NONE]],Bobcat,[[NONE]],fried chicken,"Boo: ""B + O + U"", ""Boo"": ""B + O + U + I"", ""Boo"": ""B + O + U + I + E"", ""Boo"": ""B + O + U + I + E + A""",a burger and fries,"Health, Fitness & Dieting",Bouillon
+0282.jpg,Food,Easy,OAT,,[[NONE]],Sushi,oat,oatmeal,coat,a person in a coat,"Cookbooks, Baking & Desserts",C
+0283.jpg,Food,Easy,PORRIDGE,,Krispy Kreme,Ketchup,Piemonte,rice krispie treats,pie,a slice of pizza,Science & Math,kiss
+0284.jpg,Food,Easy,BUTTER,BATTER,energy,Yogurt,buttery,Batter,battery,y = y + y = y,Science & Math,yogurt
+0285.jpg,Composers,Medium,SAINT SAENS,,Wolfgang Amadeus Mozart,Handel,Sir Edward Elgar,Haydn,Mozart,john adams,christianity,[[NONE]]
+0286.jpg,Composers,Easy,STRAVINSKY,,Ludwig van Beethoven,Eva Cassidy,Tchaikovsky,All talk and no action,Elvis plus time equals rise,john cage,gardening,[[NONE]]
+0287.jpg,Composers,Easy,MOZART,,Zelda,Ziggy Stardust,Mozart,Boulez and Debussy,Moore,zappa,simpsons,[[NONE]]
+0288.jpg,Composers,Easy,SCHUMANN,,Beethoven + Mozart = Composers,Chopin,Bach,Schumann,Beethoven,a sock and a ball,christianity,Bach
+0289.jpg,Composers,Easy,CHOPIN,,compose,Beethoven,Johannes Brahms,Chopin,Beethoven,john cage,music,[[NONE]]
+0290.jpg,Composers,Easy,BRAHMS,,Mozart,Madonna,Johannes Brahms,brahms,"Mozart: ""M"", ""Beethoven"": ""B"", ""Chopin"": ""C"", ""Schubert"": ""S"", ""Vivaldi"": ""V"", ""Handel"": ""H"", ""Bach"": ""B""",m + s,"Health, Fitness & Dieting",Mozart
+0291.jpg,Composers,Medium,BACH,,Mozart,Mozart,Haydn,bach,Mozart,henry koenig,rooster,[[NONE]]
+0292.jpg,Composers,Easy,ELGAR,,Jazzfish,[[NONE]],Liszt,stravinsky,Ludwig van Beethoven,ludwig van beethoven,Computers & Technology,leonard cohen
+0293.jpg,Composers,Medium,RACHMANINOFF,,Composers' Creative Process,Beethoven,Michael Giacchino,schumann,Johann Sebastian Bach,john cage,music,[[NONE]]
+0294.jpg,Composers,Medium,TELEMANN,,Mozart,19,Nordpop,Johann Sebastian Bach,Composers,john cage,physics,[[NONE]]
+0295.jpg,Composers,Medium,SCARLATTI,,Mozart,Sandwich + ingredients = a delicious meal,[[NONE]],Chopin,Monkey,one piece,music,[[NONE]]
+0296.jpg,Christmas songs,Easy,ROCKIN' AROUND THE CHRISTMAS TREE,,Santa Claus,snowman,Rockin' Around the Christmas Tree,"O Come, All Ye Faithful",rock and roll,this,Crafts & Hobbies,Merry Christmas
+0297.jpg,Christmas songs,Easy,JINGLE BELL ROCK,,Easter Bunny,The Twelve Days of Christmas,Two drummers laying,Jingle Bells,"bell: ""jingle bells"", ""tree"": ""chestnuts roasting on an open fire""",this,easter,jingle bells
+0298.jpg,Christmas songs,Easy,SANTA BABY,,Jingle Bell Rock,Feliz Navidad,Santa Baby,"O Come, All Ye Faithful",Santa Claus and a baby,santa claus and santa claus,santa claus,SANTA
+0299.jpg,Cartoon characters,Medium,HOMER SIMPSON,,Sunny,[[NONE]],Homer Simpson,Spongebob Squarepants,cartoon,lil p,children's books,[[NONE]]
+0300.jpg,Cartoon characters,Easy,POPEYE,,[[NONE]],cob + ball,Popeye,Corn on the cob,"Popcorn: ""Popcorn"", ""Corn"": ""Corn"", ""Balloon"": ""Balloon""",a corn cob and a corn ear,science,popcorn
+0301.jpg,Cartoon characters,Easy,MOOMIN,,cow,Candy,Bullwinkle,Grass fed cow + high - T + candy,C T O,a cow and a plant,cow,Bugs Bunny
+0302.jpg,Composers,Easy,MAHLER,,Beethoven,Bach,Johann Sebastian Bach,Scalers,Rachel,john cage,Business & Money,[[NONE]]
+0303.jpg,Composers,Medium,RAMEAU,,Mahler,Leonard Bernstein,Karlheinz Stockhausen,H + Ra + mow + H,Beethoven's mower,egyptian mummy,egyptology,[[NONE]]
+0304.jpg,Composers,Medium,PHILIP GLASS,,Mozart,Water for Two,Alexander Scriabin,Philip Glass,water,[[NONE]],"Cookbooks, Food & Wine",[[NONE]]
+0305.jpg,MBTA stations,Medium,KENDALL MIT,,Silver Line,[[NONE]],Kenmore,Beachmont,"Ken: ""Mattapan"", ""Barbie"": ""Oak Grove"", ""Mountain"": ""Summit"", ""Sum"": ""Summit""",mt holly,Science & Math,[[NONE]]
+0306.jpg,MBTA stations,Easy,HAYMARKET,,[[NONE]],Farmers Market,Haymarket,Haymarket,"Haymarket: ""Haymarket Station"", ""Farmer's Market"": ""Farmer's Market Station""",mt holly,"Health, Fitness & Dieting",[[NONE]]
+0307.jpg,MBTA stations,Medium,PORTER,,[[NONE]],Bowdoin,Porter,Wellesley + Archer - Y + Arch,Gateway,st louis arch,engineering,[[NONE]]
+0308.jpg,MBTA stations,Easy,BRAINTREE,BRAIN TREE,Boston University,Brain Tree,Braintree,Braintree,brain,mt holly,"Health, Fitness & Dieting",[[NONE]]
+0309.jpg,MBTA stations,Medium,RUGGLES,,Charge Station,[[NONE]],Davis,Ruggles,this,mt holly,photography,[[NONE]]
+0310.jpg,MBTA stations,Medium,FENWAY,,MBTA fare,Green Line,Government Center,Riverside,"Boston: ""Boston Logan International Airport"", ""Cambridge"": ""Cambridge Massachutes Transit Authority"", ""Chelsea"": ""Chelsea Ferry Landing"", ""Dorchester"": ""Dorchester Ferry Landing"", ""Hull"": ""Hull Ferry Landing"", ""Revere"": ""Revere Beach Ferry Landing"", ""Somerville"": ""Somerville Ferry Landing"", ""South Boston"": ""South Boston Ferry Landing"", ""Quincy"": ""Quincy Adams Ferry Landing"", ""Weymouth"": ""Weymouth Ferry Landing""",taft,MBTA stations,Peace apple Norway
+0311.jpg,MBTA stations,Medium,PRUDENTIAL,,[[NONE]],Davis + Union = DU,Ruggles,Alewife,"Teapot: ""D"", ""Coffee"": ""G"", ""Cake"": ""M"", ""Spoon"": ""R""",harvard square,astronomy,[[NONE]]
+0312.jpg,MBTA stations,Easy,JACKSON SQUARE,,stations,Commuter Rail,JFK/UMass,Jake's Corner,"JACK: ""JFK-ALEWIFE-CHARLESTOWN-KING'S""",harvard square,Games & Hobbies,[[NONE]]
+0313.jpg,MBTA stations,Medium,ANDREW,,Sparrow,seagull,Anderson,Alewife,&,a quarter and a penny,Business & Money,{&} { Screwdriver } { Quarters } { Man looking out car window }
+0314.jpg,MBTA stations,Easy,MAVERICK,,[[NONE]],Maverick,Maverick,Riverside,Rick,m w,Computers & Technology,Rick and Morty
+0315.jpg,MBTA stations,Easy,WOOD ISLAND,,MBTA,[[NONE]],Logan Airport,Woodland,"A: ""A"", ""B"": ""B"", ""C"": ""C"", ""D"": ""D""",harvard square,Science & Math,[[NONE]]
+0316.jpg,MBTA stations,Medium,COPLEY,,John F. Kennedy,vote,Copley,COP ( Alley ) (X) (RubbLE),"Police Alley or ""Inkblot Alley""",harvard square,MBTA,[[NONE]]
+0317.jpg,MBTA stations,Medium,MISSION PARK,,alt,Ashmont,Park Street,Riverside,this,harvard square,computer,[[NONE]]
+0318.jpg,MBTA stations,Easy,CLEVELAND CIRCLE,,Cambridge,Downtown Crossing,Cleveland Circle,Alewife,CLEVELAND,cleveland square,Arts & Photography,[[NONE]]
+0319.jpg,MBTA stations,Medium,BOWDOIN,,MBTA stations,Watertown,Bowdoin,Alewife,bow,harvard square,Children's Books,[[NONE]]
+0320.jpg,MBTA stations,Medium,SAVIN HILL,,Spain,Casa de Cartas,Quincy,Alewife,Cambridge,harvard square,Travel & Tourism,E
+0321.jpg,MBTA stations,Medium,STATE,,[[NONE]],prehend,Thea Leoni - Con,Alewife,"Hadrian: ""4.54 Ga"", ""Archean"": ""2.5 Ga"", ""Proterozoic"": ""1.5 Ga"", ""Precambrian"": ""541 Ma"", ""Today"": ""541 Ma""",harvard square,Medical Books,[[NONE]]
+0322.jpg,MBTA stations,Medium,NEWTON HIGHLANDS,,Lynn,lands,Newton Highlands,Alewife,New England,lands,Science & Nature,[[NONE]]
+0323.jpg,MBTA stations,Medium,CHINATOWN,,[[NONE]],[[NONE]],Newton Centre,Charles/MGH,NATO,nato x,MBTA,[[NONE]]
+0324.jpg,MBTA stations,Medium,DAVIS,,commute,South Station,Davis,Alewife,panda,boston common,chemistry,[[NONE]]
+0325.jpg,Food,Easy,PLANTAIN,,slice,raincoat,Spice,Lettuce rain,"Rainbow: ""Rain"", ""Sun"": ""S"", ""Plant"": ""P""",[[NONE]],Gardening,Rainbow
+0326.jpg,Animals,Easy,SNAKE,,goldfish,Broomstick,Tinamou,turkey,"Rabbit: ""Tin"", ""Tin"": ""Rabbit"", ""Rabbit"": ""Tin""",tin + r = r,Science & Technology,Tim + R = TR
+0327.jpg,Common objects,Medium,PHOTO,,cupcake,cupcake + flag = a treat from a specific country,[[NONE]],rice cooker,cupcake,a cup of coffee,cupcake,Bowl of rice + 2
+0328.jpg,Animals,Easy,ELEPHANT,,[[NONE]],[[NONE]],elephant,L + F + lie,"F: ""Fish"", ""L"": ""Lion"", ""F"": ""Fish"", ""O"": ""Owl"", ""L"": ""Lion""",lf k,Religion & Spirituality,Lick
+0329.jpg,Countries,Medium,CANADA,,[[NONE]],Lithuania,belarus,lithiania,"Australia: ""Union"", ""South"": ""Lead"", ""Oceania""",[[NONE]],Science & Math,[[NONE]]
+0330.jpg,Weaponry,Medium,DAGGER,,[[NONE]],swordfish,[[NONE]],tree + saw + fish,swordfish,a fish and a ray,Science & Math,[[NONE]]
+0331.jpg,Farm things,Easy,MOWER,,farming on the water,daisy,plant,m + flower - ida,flower,florida,florida,alligator
+0332.jpg,Common phrases,Medium,PHONEY BALONEY,,[[NONE]],Sicily + Italy = Italy,[[NONE]],Long distance,July + Y right,italy is a country,Travel & Tourism,dyi
+0333.jpg,Farm things,Easy,BEEHIVE,,dirt,EGG,hay bale,Haystack,"A: ""Cow"", ""B"": ""Chicken"", ""C"": ""Pig"", ""D"": ""Sheep"", ""E"": ""Horse"", ""F"": ""Cow"", ""H"" to ""F"": Mathematical operations",a l d e f g,Science & Nature,[[NONE]]
