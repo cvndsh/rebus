@@ -1,5 +1,7 @@
-# rebus
+# REBUS
 REBUS: A Robust Evaluation Benchmark of Understanding Symbols
+
+[**🤗 Dataset**]([https://huggingface.co/datasets/MMMU/MMMU/](https://huggingface.co/datasets/cavendishlabs/rebus) | [**GitHub**](https://github.com/cvndsh/rebus)
 
 ## Introduction
 
