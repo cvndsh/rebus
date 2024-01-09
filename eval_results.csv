@@ -1,4 +1,4 @@
-Filename,Theme,Difficulty,Solution,Also accept,LLaVa-1.5-7B,LLaVa-1.5-13B,GPT-4V,Gemini Pro,CogVLM,BLIP2-FLAN-T5-XXL,InstructBLIP,QWEN
+Filename,Theme,Difficulty,Solution,Also accepted,LLaVa-1.5-7B,LLaVa-1.5-13B,GPT-4V,Gemini Pro,CogVLM,BLIP2-FLAN-T5-XXL,InstructBLIP,QWEN
 0001.jpg,Towns in Massachusetts,Medium,NORWELL,,Marblehead,Quincy,Ipswich,Wellesley,Boston,shrewsbury ma,Science & Technology,[[NONE]]
 0002.jpg,Towns in Massachusetts,Easy,COLRAIN,,Plymouth,Provincetown,[[NONE]],Raynham,Towns in Massachusetts,rochester,"Educating, Teaching & Learning",[[NONE]]
 0003.jpg,Towns in Massachusetts,Easy,PETERSHAM,,Plymouth,Armor Turkey,Kingston,Petersham,Towns in Massachusetts,stow,cookbooks,[[NONE]]
