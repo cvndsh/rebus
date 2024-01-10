@@ -38,7 +38,7 @@ for i in range(len(rows)):
     request = f"""{{"contents":[{{"parts":[{{"text": "{prompt}"}},{{"inline_data": {{"mime_type":"image/jpeg","data": "{image}"}}}}]}}]}}"""
 
     # The URL for the API request
-    api_key = "AIzaSyB20qXnZn3X-jq2nRITYumav073me_ZsAg"
+    api_key = "AIzaSyB20qXnZn3X-jq2nRITYumav073me_ZsAg"  # (not a real key, replace with your own)
     url = f'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent?key={api_key}'
 
     # Set the headers
