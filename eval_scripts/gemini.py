@@ -3,7 +3,6 @@ import csv
 import json
 
 import requests
-from openai import OpenAI
 
 # 1. Load dataset
 
@@ -17,11 +16,7 @@ with open('dataset.csv', mode='r', encoding='utf-8') as file:
     for row in csv_reader:
         rows.append(row)
 
-# 2. Load model
-
-client = OpenAI()
-
-# 3. Evaluate model
+# 2. Evaluate model
 
 for i in range(len(rows)):
     current_row = rows[i]
