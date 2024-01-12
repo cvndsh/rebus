@@ -1,7 +1,7 @@
 # REBUS
 REBUS: A Robust Evaluation Benchmark of Understanding Symbols
 
-[**Paper**](https://arxiv.org/abs/2401.05604) | [**🤗 Dataset**](https://huggingface.co/datasets/cavendishlabs/rebus) | [**GitHub**](https://github.com/cvndsh/rebus)
+[**Paper**](https://arxiv.org/abs/2401.05604) | [**🤗 Dataset**](https://huggingface.co/datasets/cavendishlabs/rebus) | [**GitHub**](https://github.com/cvndsh/rebus) | [**Website**](https://cavendishlabs.org/rebus/)
 
 ## Introduction
 
