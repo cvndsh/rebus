@@ -23,3 +23,55 @@ We present REBUS: a collection of 333 hand-crafted rebuses spanning 13 diverse c
 | CogVLM            | 0.9           | 1.6           | 0.0           | 0.0          |
 | QWEN              | 0.9           | 1.6           | 0.0           | 0.0          |
 | InstructBLIP      | 0.6           | 0.5           | 0.9           | 0.0          |
+
+## Steps to Reproduce
+
+1. Install [Python](https://www.python.org).
+
+1. Install the [package installer for Python](https://pypi.org/project/pip/) (pip).
+
+1. Install the imported packages:
+
+   - torch
+  
+        `pip install torch`
+   
+   - requests
+
+        `pip install requests`
+
+   - PIL
+
+        `pip install Pillow`
+
+   - transformers
+
+        `pip install transformers`
+
+   - openai
+  
+        `pip install openai`
+
+   - matplotlib
+
+        `pip install matplotlib`
+
+   - tiktoken
+
+        `pip install tiktoken`
+
+   - transformers_stream_generator
+
+        `pip install transformers_stream_generator`
+
+   - einops
+
+        `pip install einops`
+
+   - torchvision
+
+        `pip install tochvision`
+
+1. Run the scripts in `eval_scripts/`, for example `blip.py`:
+
+   - `python ./eval_scripts/blip.py`
