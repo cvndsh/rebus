@@ -8,7 +8,7 @@ import requests
 
 rows = []
 
-with open('dataset.csv', mode='r', encoding='utf-8') as file:
+with open('data.csv', mode='r', encoding='utf-8') as file:
     csv_reader = csv.reader(file)
 
     headers = next(csv_reader)

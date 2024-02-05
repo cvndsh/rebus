@@ -5,11 +5,11 @@ import torch
 from PIL import Image
 from transformers import LlamaTokenizer, AutoModelForCausalLM
 
-# 1. Load datasaet
+# 1. Load dataset
 
 rows = []
 
-with open('dataset.csv', mode='r', encoding='utf-8') as file:
+with open('data.csv', mode='r', encoding='utf-8') as file:
     csv_reader = csv.reader(file)
 
     headers = next(csv_reader)
