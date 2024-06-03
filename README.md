@@ -38,47 +38,7 @@ We present REBUS: a collection of 333 hand-crafted rebuses spanning 13 diverse c
 
 1. Install the [package installer for Python](https://pypi.org/project/pip/) (pip).
 
-1. Install the imported packages:
-
-   - torch
-  
-        `pip install torch`
-   
-   - requests
-
-        `pip install requests`
-
-   - PIL
-
-        `pip install Pillow`
-
-   - transformers
-
-        `pip install transformers`
-
-   - openai
-  
-        `pip install openai`
-
-   - matplotlib
-
-        `pip install matplotlib`
-
-   - tiktoken
-
-        `pip install tiktoken`
-
-   - transformers_stream_generator
-
-        `pip install transformers_stream_generator`
-
-   - einops
-
-        `pip install einops`
-
-   - torchvision
-
-        `pip install tochvision`
+1. Install the necessary packages: `pip install torch requests Pillow transformers openai matplotlib tiktoken transformers_stream_generator einops torchvision`
 
 1. Run the scripts in `eval_scripts/`, for example `blip.py`:
 
