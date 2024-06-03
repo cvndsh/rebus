@@ -75,3 +75,26 @@ We present REBUS: a collection of 333 hand-crafted rebuses spanning 13 diverse c
 1. Run the scripts in `eval_scripts/`, for example `blip.py`:
 
    - `python ./eval_scripts/blip.py`
+
+
+## Attribution
+
+This dataset was created by Andrew Gritsevskiy, Arjun Panickssery, Derik Kauffman, Joe Cavanagh, Jonathan Chiang, Aaron Kirtland, Hans Gundlach, Irina Gritsevskaya, Lydia La Roux, and Michelle Hung. Attributions for images used within rebuses are individially available in data.csv.
+
+
+## Citation
+
+If you use this dataset, please cite
+
+```
+@misc{gritsevskiy2024rebus,
+      title={REBUS: A Robust Evaluation Benchmark of Understanding Symbols}, 
+      author={Andrew Gritsevskiy and Arjun Panickssery and Aaron Kirtland and Derik Kauffman and Hans Gundlach and Irina Gritsevskaya and Joe Cavanagh and Jonathan Chiang and Lydia La Roux and Michelle Hung},
+      year={2024},
+      eprint={2401.05604},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+This
