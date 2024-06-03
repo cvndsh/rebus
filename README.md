@@ -15,8 +15,16 @@ We present REBUS: a collection of 333 hand-crafted rebuses spanning 13 diverse c
 
 | Model             | Overall       | Easy          | Medium        | Hard         |
 | ----------------- | ------------- | ------------- | ------------- | ------------ |
-| GPT-4V            | **24.0**      | **33.0**      | **13.2**      | **7.1**      |
-| Gemini Pro        | 13.2          | 19.4          | 5.3           | 3.6          |
+| GPT-4o            | **41.7**      | **52.4**      | **32.5**      | **7.1**      |
+| GPT-4V            | 24.0          | 33.0          | 13.2          | **7.1**      |
+| Claude 3 Opus     | 18.9          | 29.3          | 6.1           | 0.0          |
+| Gemini 1.5 Pro    | 17.4          | 23.0          | 11.4          | 3.6          |
+| Gemini 1.0 Pro    | 13.2          | 19.4          | 5.3           | 3.6          |
+| Claude 3 Sonnet   | 7.5           | 11.5          | 2.7           | 0.0          |
+| Gemini 1.5 Flash  | 6.0           | 8.9           | 1.8           | 3.6          |
+| Reka Core         | 5.4           | 7.9           | 1.8           | 3.6          |
+| Claude 3 Haiku    | 4.5           | 6.3           | 1.8           | 3.6          |
+| LLaVa-1.6-34B     | 2.7           | 3.7           | 1.8           | 0.0          |
 | LLaVa-1.5-13B     | 1.8           | 2.6           | 0.9           | 0.0          |
 | LLaVa-1.5-7B      | 1.5           | 2.6           | 0.0           | 0.0          |
 | BLIP2-FLAN-T5-XXL | 0.9           | 0.5           | 1.8           | 0.0          |
